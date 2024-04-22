@@ -1,0 +1,23 @@
+{
+    "folders": [
+        {
+            "path": "client"
+        },
+        {
+            "path": "order"
+        },
+        {
+            "path": "product"
+        },
+        {
+            "path": "prodduct_brand"
+        },
+        {
+            "path": "orquestador"
+        }
+    ],
+    "settings": {
+        "python.pythonPath": "/usr/bin/python3",
+        "editor.tabSize": 4
+    }
+}
